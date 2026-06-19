@@ -1,0 +1,26 @@
+# Simulation & Compilation Files
+*.vvp
+*.o
+*.sim
+
+# Waveform Files (optional - usually generated during simulation)
+*.vcd
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+obj/
+
+# Temporary files
+*.tmp
+*.bak
